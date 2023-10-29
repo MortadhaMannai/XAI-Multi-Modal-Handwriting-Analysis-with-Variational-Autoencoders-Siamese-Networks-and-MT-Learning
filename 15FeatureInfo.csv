@@ -1,0 +1,5 @@
+﻿pen_pressure,letter_spacing,size,dimension,is_lowercase,is_continuous,slantness,tilt,entry_stroke_a,staff_of_a,formation_n,staff_of_d,exit_stroke_d,word_formation,constancy
+Strong,Less,Small,Low,No,No,normal,normal,no stroke,no staff,no formation,no staff,no stroke,Not well formed,Irregular
+Medium,Medium,Medium,Medium,Yes,Yes,slight right ,tilted,downstroke,retraced,normal,retraced,downstroke,Well Formed,Regular
+,High,Large,High,,,very right,,,loopy,,loopy,curved up,,
+,,,,,,left,,,tented,,,straight across,,
